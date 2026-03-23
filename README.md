@@ -1,4 +1,4 @@
-🚀 About Me
+## 🚀 About Me
 
 -💡 Passionate about building real-world web applications
 
@@ -10,9 +10,9 @@
 
 -🐥 Hobbies : Bike riding 
 
------------------------------------------------------------------------------------------------------------------------------------------------------------->
+---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -30,16 +30,26 @@
 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
------------------------------------------------------------------------------------------------------------------------------------------------------------->
+---
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashank2117&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Shashank2117&theme=tokyonight)
 
------------------------------------------------------------------------------------------------------------------------------------------------------------->
+---
 
-👀 Profile Views
+## 👀 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shashank2117&color=blue)
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shashank-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shashank-kanojiya-73550729a)
+
+[![Gmail](https://img.shields.io/badge/Email-Shashank-red?style=for-the-badge&logo=gmail)](mailto:kanojiyashashank2004@gmail.com)
+
+---
