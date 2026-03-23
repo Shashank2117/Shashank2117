@@ -1,11 +1,16 @@
 🚀 About Me
 
--💡 Passionate about building real-world web applications                                                                                                   -🌱 Currently learning React.js, Backend Development & DSA 
+-💡 Passionate about building real-world web applications
+
+-🌱 Currently learning React.js, Backend Development & DSA 
+
 -🔍 Interested in Software Development & Problem Solving
+
 -🎯 Goal: To crack a good product-based company
+
 -🐥 Hobbies : Bike riding 
 
------------------------------------------------------------------------------------------>
+------------------------------------------------------------------------------------------------------------------------------------------------------------>
 
 🛠️ Tech Stack
 
@@ -25,12 +30,16 @@
 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
----------------------------------------------------------------------------------------->
+------------------------------------------------------------------------------------------------------------------------------------------------------------>
 
 📊 GitHub Stats
 
 ![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashank2117&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank2117&layout=compact&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Shashank2117&theme=tokyonight)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------>
+
+👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=Shashank2117&color=blue)
